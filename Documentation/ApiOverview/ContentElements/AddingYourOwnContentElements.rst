@@ -284,9 +284,9 @@ has to be created with the following content:
 5. Optional: Extend tt_content
 ==============================
 
-.. todo::
-
-   This will be filled in another patch.
+If you happen to need additional database fields for your content element you can add additional
+fields to the database and TCA to use with your custom content element. See the example at
+:ref:`extending-examples-ttcontent` for a detailed description. 
 
 .. _ConfigureCE-DataProcessors:
 
